@@ -1,0 +1,16 @@
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+microquadrotor configuration/\event_groups.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+microquadrotor configuration/\event_groups.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+microquadrotor configuration/\event_groups.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+microquadrotor configuration/\event_groups.o: ../Inc/FreeRTOSConfig.h
+microquadrotor configuration/\event_groups.o: ../Inc/mxconstants.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+microquadrotor configuration/\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

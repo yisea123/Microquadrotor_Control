@@ -1,0 +1,16 @@
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+microquadrotor configuration/\queue.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+microquadrotor configuration/\queue.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+microquadrotor configuration/\queue.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+microquadrotor configuration/\queue.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+microquadrotor configuration/\queue.o: ../Inc/FreeRTOSConfig.h
+microquadrotor configuration/\queue.o: ../Inc/mxconstants.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+microquadrotor configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

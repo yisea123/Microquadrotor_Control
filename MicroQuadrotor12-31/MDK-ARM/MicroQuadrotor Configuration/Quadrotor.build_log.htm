@@ -1,0 +1,85 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.17.0.0
+Copyright (C) 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Johnny Sun, UESTC, LIC=RC930-B6CMU-RAXDM-XKEQQ-NG09Z-8Y7W2
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Standard  Version: 5.17
+Toolchain Path:  D:\Program Files\CAD\Keil\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 1 (build 61)
+Assembler:       Armasm.exe V5.06 update 1 (build 61)
+Linker/Locator:  ArmLink.exe V5.06 update 1 (build 61)
+Library Manager: ArmAr.exe V5.06 update 1 (build 61)
+Hex Converter:   FromElf.exe V5.06 update 1 (build 61)
+CPU DLL:         SARMCM3.DLL V5.17
+Dialog DLL:      DCM.DLL V1.13.4.0
+Target DLL:      Segger\JL2CM3.dll V2.99.16.0
+Dialog DLL:      TCM.DLL V1.14.6.0
+ 
+<h2>Project:</h2>
+E:\Electronic Design\Project\Quadrotor\MicroQuadrotor2015\Program\MicroQuadrotor\MDK-ARM\MicroQuadrotor.uvprojx
+Project File Date:  11/20/2015
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 1 (build 61)', folder: 'D:\Program Files\CAD\Keil\Keil_v5\ARM\ARMCC\Bin'
+Build target 'MicroQuadrotor Configuration'
+compiling stm32f4xx_it.c...
+../Src/stm32f4xx_it.c(102): warning:  #111-D: statement is unreachable
+    HAL_UART_IRQHandler(&huart1);
+../Src/stm32f4xx_it.c: 1 warning, 0 errors
+compiling freertos.c...
+compiling main.c...
+compiling cpustate.c...
+compiling MPU9250.c...
+..\Src\MPU9250.c(21): warning:  #1-D: last line of file ends without a newline
+  MPU9250_Raw_Data  g_Raw_Data;
+..\Src\MPU9250.c: 1 warning, 0 errors
+compiling module_mpu9250.c...
+compiling tim.c...
+compiling adc.c...
+../Src/adc.c(58): warning:  #188-D: enumerated type mixed with another type
+      for(j=0;j<=ADC_RIGHT_LED;j++)
+../Src/adc.c: 1 warning, 0 errors
+compiling Quad_Math.c...
+..\Src\Quad_Math.c(424): warning:  #177-D: variable "i" was declared but never referenced
+  	uint8_t i;
+..\Src\Quad_Math.c: 1 warning, 0 errors
+compiling pid.c...
+compiling bmp280_support.c...
+..\Src\bmp280_support.c(120): warning:  #177-D: variable "v_standby_time_u8" was declared but never referenced
+  	u8 v_standby_time_u8 = BMP280_INIT_VALUE;
+..\Src\bmp280_support.c: 1 warning, 0 errors
+compiling Afei_Bluetooth.c...
+compiling Control.c...
+..\Src\Control.c(22): error:  #20: identifier "STANBY" is undefined
+  FlyModeType FlyMode= STANBY;
+..\Src\Control.c(69): warning:  #177-D: variable "yawRateTarget" was declared but never referenced
+   	float yawRateTarget=0;
+..\Src\Control.c: 1 warning, 1 error
+"MicroQuadrotor Configuration/\Quadrotor.axf" - 1 Error(s), 6 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.4.5.0.pack
+                ARM::CMSIS:CORE:4.3.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 4.3.0
+
+<h2>Collection of Component include folders:</h2>
+  E:\Electronic Design\Project\Quadrotor\MicroQuadrotor2015\Program\MicroQuadrotor\MDK-ARM\RTE
+  D:\Program Files\CAD\Keil\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+  D:\Program Files\CAD\Keil\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:4.3.0
+Target not created.
+Build Time Elapsed:  00:00:21
+</pre>
+</body>
+</html>

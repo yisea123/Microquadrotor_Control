@@ -1,0 +1,13 @@
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+microquadrotor configuration/\port.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+microquadrotor configuration/\port.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+microquadrotor configuration/\port.o: ../Inc/FreeRTOSConfig.h
+microquadrotor configuration/\port.o: ../Inc/mxconstants.h
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+microquadrotor configuration/\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,15 @@
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+microquadrotor configuration/\croutine.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+microquadrotor configuration/\croutine.o: B:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+microquadrotor configuration/\croutine.o: ../Inc/FreeRTOSConfig.h
+microquadrotor configuration/\croutine.o: ../Inc/mxconstants.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+microquadrotor configuration/\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
